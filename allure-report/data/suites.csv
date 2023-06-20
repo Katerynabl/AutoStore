@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Mon Jun 19 00:15:13 EEST 2023","Mon Jun 19 00:15:30 EEST 2023","17566","","","","","","Authorization",""
+"passed","Mon Jun 19 00:15:35 EEST 2023","Mon Jun 19 00:15:51 EEST 2023","16740","","","","","","Order",""
+"passed","Mon Jun 19 00:16:01 EEST 2023","Mon Jun 19 00:16:27 EEST 2023","26116","","","","","","Registration",""
